@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_custom_appbar/custom_appbar.dart';
 
-import 'background_painter.dart';
 import 'second_screen.dart';
+import '/background_painter.dart';
 
 // Home Page
 class HomePage extends StatelessWidget {
